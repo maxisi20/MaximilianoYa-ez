@@ -1,0 +1,28 @@
+=== REPORTE DE PROYECTOS ===
+Fecha: 2025-11-21
+
+Proyecto: Plataforma de E-commerce
+ID: PR001
+Responsable: admin1
+Total de tareas: 3
+Tareas:
+  - Error en el login de usuarios | Tipo: Bug | Estado: Pendiente | Responsable: colab1 | Complejidad: Alta
+  - Agregar carrito de compras | Tipo: Feature | Estado: Pendiente | Responsable: colab2 | Complejidad: Media
+  - Redactar manual de usuario | Tipo: Documentacion | Estado: En progreso | Responsable: colab1 | Complejidad: Baja
+
+Proyecto: Sistema de Inventario
+ID: PR002
+Responsable: admin2
+Total de tareas: 2
+Tareas:
+  - Fallo en exportación de datos | Tipo: Bug | Estado: Pendiente | Responsable: colab1 | Complejidad: Alta
+  - Implementar módulo de reportes | Tipo: Feature | Estado: Pendiente | Responsable: colab2 | Complejidad: Alta
+
+Proyecto: Aplicación Móvil de Reservas
+ID: PR003
+Responsable: admin3
+Total de tareas: 2
+Tareas:
+  - Diseñar pantalla de reservas | Tipo: Feature | Estado: Pendiente | Responsable: colab1 | Complejidad: Media
+  - Escribir casos de uso | Tipo: Documentacion | Estado: Pendiente | Responsable: colab2 | Complejidad: Baja
+
